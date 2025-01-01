@@ -1,21 +1,11 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # CMPSC 441: Homework 4
-
-# In[1]:
-
-
-student_name = 'Aman Sahu'
-student_email = 'ajs9219@psu.edu'
-
 
 # ## Imports
 
-# In[2]:
 
-
-from hw4_utils import *
+from utils_2 import *
 import math
 import random
 import bisect

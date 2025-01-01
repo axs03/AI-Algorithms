@@ -1,15 +1,8 @@
 ########################################################
 #
-# CMPSC 441: Homework 4
+# Utils for practice_2.py
 #
 ########################################################
-
-
-#
-# DO NOT CHANGE ANYTHING IN THIS FILE.
-# - Your submission will be tested using this file
-#   in its original contents.
-#
 
 
 import math

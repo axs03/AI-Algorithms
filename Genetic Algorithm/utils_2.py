@@ -1,15 +1,9 @@
 ########################################################
 #
-# CMPSC 441: Homework 4
+# Utils File for solution_2.ipynb
+# This file has not been changed from original utils in the practice folder
 #
 ########################################################
-
-
-#
-# DO NOT CHANGE ANYTHING IN THIS FILE.
-# - Your submission will be tested using this file
-#   in its original contents.
-#
 
 
 import math

@@ -1,21 +1,14 @@
 ########################################################
 #
-# CMPSC 441: Homework 4
+# Practice Search Algorithms 2
 #
 ########################################################
-
-
-
-student_name = 'Type your full name here'
-student_email = 'Type your email address here'
-
-
 
 ########################################################
 # Import
 ########################################################
 
-from hw4_utils import *
+from utils_practice_2 import *
 import math
 import random
 
