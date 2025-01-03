@@ -1,6 +1,6 @@
 # Algorithms for Artificial Intelligence
 This repository contains some search algorithms which is widely used within AI. This repo has the following: 
-## Search Algorithms
+## <a href='Best-First, Uniform-Cost, A-Star Search/README.md'>Search Algorithms</a>
 <ul>
 <li><code>Best-First Search</code></li>
 <li><code>Uniform-Cost Search</code></li>
