@@ -7,5 +7,5 @@ This repository contains some search algorithms which is widely used within AI. 
 <li><code>A* Search</code></li>
 </ul>
 
-## The Genetic Algorithm
+## <a href='Genetic Algorithm/README.md'>The Genetic Algorithm</a>
 Following these searches, the <code>Genetic Algorithm</code> is used for optimizations and search problems. It is based on the biological process of evolution.
