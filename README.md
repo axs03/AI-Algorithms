@@ -9,3 +9,6 @@ This repository contains some search algorithms which is widely used within AI. 
 
 ## <a href='Genetic Algorithm/README.md'>The Genetic Algorithm</a>
 Following these searches, the <code>Genetic Algorithm</code> is used for optimizations and search problems. It is based on the biological process of evolution.
+
+## <a href='Naive Bayes/README.md'>Naive Bayes Implementation</a>
+The Naive Bayes classifier is a probabilistic machine learning algorithm based on Bayes' Theorem.
